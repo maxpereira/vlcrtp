@@ -10,3 +10,5 @@ Put `rtpplay.lua` in the corresponding path for your operating system.
 * Linux (current user): `~/.local/share/vlc/lua/sd/`
 * macOS (all users): `/Applications/VLC.app/Contents/MacOS/share/lua/sd/`
 * macOS (current user): `~/Library/Application Support/org.videolan.vlc/lua/sd/`
+
+Then launch VLC. Click on "RTP Play" in the left sidebar under "Internet".
